@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=SEJA+BEM-VINDO!!!)](https://git.io/typing-svg)
 ## Olá! Eu sou o Alex Batista 👋
 
 - 🔭 Atualmente trabalho com Front-End, Design e Motion
