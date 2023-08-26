@@ -59,7 +59,7 @@
 ## Contatos
 
 <div>
-  <a href="https://www.behance.net/alebassuncc26d" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.behance.net/alebassuncao26d" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="mailto:alexbatistadsg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="http://api.whatsapp.com/send?phone=5548992053416" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
